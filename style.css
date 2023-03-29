@@ -32,7 +32,7 @@ main {
 .topo {
     background-image: linear-gradient( to top, hsl(241, 81%, 54%), hsl(252, 100%, 67%));
     max-width: 415px;
-    height: 400px;
+    height: 450px;
     border-radius: 0px 0px 10% 10%;
     text-align: center;
 }
